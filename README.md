@@ -12,8 +12,8 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cuong0993&show_icons=true&theme=gotham" alt="cuong0993" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bevvvvv&show_icons=true&theme=gruvbox" alt="cuong0993" /> </p>
   
 👌 Top languages
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong0993&layout=compact&theme=material-palenight" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bevvvvv&layout=compact&theme=material-palenight" /> </p>
