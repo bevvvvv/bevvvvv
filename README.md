@@ -12,7 +12,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bevvvvv&show_icons=true&theme=gruvbox" alt="cuong0993" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bevvvvv&show_icons=true&theme=gruvbox" alt="bevvvvv" /> </p>
   
 👌 Top languages
 
