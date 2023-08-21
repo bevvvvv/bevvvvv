@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**bevvvvv/bevvvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- DevOps Engineer based on Data
+- Learning Cloud, Rust, and Golang
 
-Here are some ideas to get you started:
+:coffee: Let's Connect
+<p align="center">
+	<a href="https://github.com/bevvvvv"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/joseph-sepich-255075143/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:joe@sepich.dev"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cuong0993&show_icons=true&theme=gotham" alt="cuong0993" /> </p>
+  
+👌 Top languages
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong0993&layout=compact&theme=material-palenight" /> </p>
